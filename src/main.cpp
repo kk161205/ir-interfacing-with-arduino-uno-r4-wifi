@@ -1,3 +1,9 @@
-//
-// Created by lenovo on 2/2/2026.
-//
+#include <Arduino.h>
+#define irPin 2
+void setup() {
+
+}
+
+void loop() {
+
+}
