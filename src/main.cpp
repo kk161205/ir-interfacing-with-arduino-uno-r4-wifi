@@ -2,6 +2,7 @@
 #define irPin 2
 void setup() {
     pinMode(irPin, INPUT);
+    Serial.begin(9600);
 }
 
 void loop() {
